@@ -1,4 +1,4 @@
-# Web-Scraping-Challenge
+# Web Scraping
 
 This project was done in 2 steps;
 
